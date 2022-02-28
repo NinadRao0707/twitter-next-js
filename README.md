@@ -29,8 +29,8 @@
 ## Features 📋
 ⚡️ Fully Responsive\
 ⚡️ Valid Tailwind CSS\
-⚡️ Supports authentication and authorization
-⚡️ Create new account using Signup
+⚡️ Supports authentication and authorization\
+⚡️ Create new account using Signup\
 ⚡️ Like and Comment posts
 
 ## Table of Contents
